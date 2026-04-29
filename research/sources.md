@@ -2,52 +2,51 @@
 
 ## Selected Experts & High-Signal Sources
 
-1. **Kevin Indig**
-   - **Source:** [kevin-indig.com](https://www.kevin-indig.com/)
-   - **Annotation:** Former VP of SEO at G2 and Shopify. He focuses on programmatic SEO and how AI is transforming content growth for SaaS.
+1. **Kevin Indig** (Growth & Strategy)
+   - **Profile:** [linkedin.com/in/kevinindig](https://www.linkedin.com/in/kevinindig/)
+   - **Annotation:** Former VP of SEO at G2. Expert in "Programmatic SEO" and how AI systems scale content production for SaaS.
    - **Date:** 2026-04-29
 
-2. **Aleyda Solis**
-   - **Source:** [aleydasolis.com](https://www.aleydasolis.com/)
-   - **Annotation:** International SEO consultant and creator of "Crawling Mondays." She provides deep dives into AI tools for technical SEO audits.
+2. **Aleyda Solis** (International SEO)
+   - **YouTube:** [youtube.com/@AleydaSolis](https://www.youtube.com/@AleydaSolis)
+   - **Annotation:** Founder of Orainti. Her "Crawling Mondays" series is a primary source for AI-driven technical SEO audits.
    - **Date:** 2026-04-29
 
-3. **Mike King (iPullRank)**
-   - **Source:** [ipullrank.com](https://ipullrank.com/)
-   - **Annotation:** A technical SEO leader specializing in how Large Language Models (LLMs) interpret content and influence search rankings.
+3. **Mike King** (Technical SEO & LLMs)
+   - **Profile:** [linkedin.com/in/michaelkingipullrank](https://www.linkedin.com/in/michaelkingipullrank/)
+   - **Annotation:** Founder of iPullRank. One of the few experts explaining the technical mechanics of how LLMs interpret search intent.
    - **Date:** 2026-04-29
 
-4. **Lily Ray**
-   - **Source:** [lilyray.ai](https://lilyray.ai/)
-   - **Annotation:** Expert in E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness). Vital for ensuring AI content meets Google's quality standards.
+4. **Lily Ray** (Quality & EEAT)
+   - **Profile:** [linkedin.com/in/lily-ray-seo](https://www.linkedin.com/in/lily-ray-seo/)
+   - **Annotation:** Focuses on Google’s quality standards (E-E-A-T) and how AI-generated content can maintain authority.
    - **Date:** 2026-04-29
 
-5. **Ross Simmonds**
-   - **Source:** [foundationinc.co](https://foundationinc.co/)
-   - **Annotation:** CEO of Foundation Marketing. He specializes in content distribution and using AI to repurpose B2B content across multiple platforms.
+5. **Ross Simmonds** (Content Distribution)
+   - **Profile:** [linkedin.com/in/rosssimmonds](https://www.linkedin.com/in/rosssimmonds/)
+   - **Annotation:** CEO of Foundation Marketing. He specializes in using AI to repurpose and distribute B2B content across multiple channels.
    - **Date:** 2026-04-29
 
-6. **Ryan Law**
-   - **Source:** [ryanlaw.me](https://ryanlaw.me/)
-   - **Annotation:** Director of Content Marketing at Ahrefs. He writes extensively on the philosophy of AI in marketing and human-led content strategies.
+6. **Ryan Law** (Content Marketing)
+   - **Profile:** [linkedin.com/in/ryan-law-seo](https://www.linkedin.com/in/ryan-law-seo/)
+   - **Annotation:** Director of Content Marketing at Ahrefs. He provides critical frameworks for human-AI collaborative writing.
    - **Date:** 2026-04-29
 
-7. **Ross Hudgens**
-   - **Source:** [siegemedia.com](https://siegemedia.com/)
-   - **Annotation:** CEO of Siege Media. Focuses on the ROI of content marketing and how AI can scale production without losing brand value.
+7. **Matt Diggity** (Testing & Automation)
+   - **YouTube:** [youtube.com/@MattDiggity](https://www.youtube.com/@MattDiggity)
+   - **Annotation:** Known for data-backed SEO tests. He provides evidence on which AI content strategies actually rank in Google.
    - **Date:** 2026-04-29
 
-8. **Matt Diggity**
-   - **Source:** [diggitymarketing.com](https://diggitymarketing.com/)
-   - **Annotation:** Specialist in test-based SEO. He provides data-driven insights into which AI automation techniques actually improve rankings.
+8. **Ross Hudgens** (Content Strategy)
+   - **Profile:** [linkedin.com/in/rosshudgens](https://www.linkedin.com/in/rosshudgens/)
+   - **Annotation:** CEO of Siege Media. Expert in the financial ROI of content and how to scale with AI without losing brand quality.
    - **Date:** 2026-04-29
 
-9. **Nathan Gotch**
-   - **Source:** [gotchseo.com](https://gotchseo.com/)
-   - **Annotation:** Expert in SEO training and agency scaling. He focuses on building systems for high-quality AI content production.
+9. **Nathan Gotch** (Agency Systems)
+   - **YouTube:** [youtube.com/@NathanGotch](https://www.youtube.com/@NathanGotch)
+   - **Annotation:** Specializes in building efficient SEO teams. His content focuses on the operational side of AI-assisted SEO.
    - **Date:** 2026-04-29
 
-10. **Garrett Sussman**
-    - **Source:** [linkedin.com/in/garrettsussman](https://www.linkedin.com/in/garrettsussman)
-    - **Annotation:** Demand Generation Manager at iPullRank. He hosts weekly discussions on the latest AI trends affecting search marketing.
-    - **Date:** 2026-04-29
+10. **Garrett Sussman** (Market Trends)
+    - **Profile:** [linkedin.com/in/garrettsussman](https://www.linkedin.com/in/garrettsussman/)
+    - **Annotation:** Head of Content at iPullRank. Provides weekly insights on the intersection of AI, search, and B2B SaaS marketing.- **Date:** 2026-04-29
